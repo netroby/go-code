@@ -18,4 +18,8 @@ tcpd.go
 
 a very basic tcp server
 
+uname_srv.go
+
+A common server query username by uid
+
 
